@@ -11,7 +11,6 @@ C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\Intern PHP\Inventory\Inventory\ob
 C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\Intern PHP\Inventory\Inventory\obj\Debug\net8.0\Inventory.AssemblyInfo.cs
 C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\Intern PHP\Inventory\Inventory\obj\Debug\net8.0\Inventory.csproj.CoreCompileInputs.cache
 C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\Intern PHP\Inventory\Inventory\obj\Debug\net8.0\Inventory.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\Intern PHP\Inventory\Inventory\obj\Debug\net8.0\Inventory.sourcelink.json
 C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\Intern PHP\Inventory\Inventory\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\Intern PHP\Inventory\Inventory\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\Intern PHP\Inventory\Inventory\obj\Debug\net8.0\staticwebassets\msbuild.Inventory.Microsoft.AspNetCore.StaticWebAssets.props

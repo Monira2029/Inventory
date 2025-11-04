@@ -1,52 +1,45 @@
 ﻿@page "/"
+@using Inventory.Clients
 @using Models
 
 <PageTitle>Game Catalog</PageTitle>
 
-<table>
-    <thead>
-        <th>Id</th>
-        <th>Name</th>
-        <th>Genre</th>
-        <th>Price</th>
-        <th>Release Date</th>
-        <th></th>
-    </thead>
-    <tbody>
-    @foreach (var game in games){
-        <tr>
-            <td>@game.Id</td>
-            <td>@game.Name</td>
-            <td>@game.Genre</td>
-            <td>@game.Price</td>
-            <td>@game.ReleaseDate</td>
-        </tr>
-    }
-    </tbody>
-</table>
+@if(games is null) 
+{
+    <p><em>Loading...</em></p>
+}
+else 
+{
+    <table class="table table-striped table-bordered table-hover mt-3">
+        <thead class="table-dark">
+            <th>Id</th>
+            <th>Name</th>
+            <th>Genre</th>
+            <th class="text-end">Price</th>
+            <th>Release Date</th>
+            <th></th>
+        </thead>
+        <tbody>
+        @foreach (var game in games){
+            <tr>
+                <td>@game.Id</td>
+                <td>@game.Name</td>
+                <td>@game.Genre</td>
+                <td class="text-end">@game.Price.ToString("C2")</td>
+                <td>@game.ReleaseDate</td>
+                <td> </td>
+            </tr>
+        }
+        </tbody>
+    </table>
+}
 
 @code {
-    private GameSummary[] games = [
-    new(){
-        Id = 1,
-        Name = "Cricket",
-        Genre = "Cricket",
-        Price = 20.00M,
-        ReleaseDate = new DateOnly(1971, 5, 5)
-    },
-    new(){
-        Id = 2,
-        Name = "Football",
-        Genre = "Football",
-        Price = 40.00M,
-        ReleaseDate = new DateOnly(1981, 6, 15)
-    },
-    new(){
-        Id = 3,
-        Name = "Handball",
-        Genre = "Handball",
-        Price = 60.00M,
-        ReleaseDate = new DateOnly(1991, 7, 25)
-    },
-    ];
+    private GamesClient client = new();
+    private GameSummary[]? games;
+
+    protected override void OnInitialized()
+    {
+      games = client.GetGames();
+    }
 }
