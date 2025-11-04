@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "cA+NmnxtWUUQH2duLnibHhTSxNCLPT3x5FF8AdSOtcU=",
+  "Source": "Inventory",
+  "BasePath": "_content/Inventory",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Inventory\\wwwroot",
+      "Source": "Inventory",
+      "ContentRoot": "c:\\Users\\ABUL HASHEM\\OneDrive\\Desktop\\PROJECTS\\Intern PHP\\Inventory\\Inventory\\wwwroot\\",
+      "BasePath": "_content/Inventory",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "c:\\Users\\ABUL HASHEM\\OneDrive\\Desktop\\PROJECTS\\Intern PHP\\Inventory\\Inventory\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Inventory.styles.css",
+      "SourceId": "Inventory",
+      "SourceType": "Computed",
+      "ContentRoot": "c:\\Users\\ABUL HASHEM\\OneDrive\\Desktop\\PROJECTS\\Intern PHP\\Inventory\\Inventory\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Inventory",
+      "RelativePath": "Inventory.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "c:\\Users\\ABUL HASHEM\\OneDrive\\Desktop\\PROJECTS\\Intern PHP\\Inventory\\Inventory\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Inventory.styles.css"
+    },
+    {
+      "Identity": "c:\\Users\\ABUL HASHEM\\OneDrive\\Desktop\\PROJECTS\\Intern PHP\\Inventory\\Inventory\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Inventory.bundle.scp.css",
+      "SourceId": "Inventory",
+      "SourceType": "Computed",
+      "ContentRoot": "c:\\Users\\ABUL HASHEM\\OneDrive\\Desktop\\PROJECTS\\Intern PHP\\Inventory\\Inventory\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Inventory",
+      "RelativePath": "Inventory.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "c:\\Users\\ABUL HASHEM\\OneDrive\\Desktop\\PROJECTS\\Intern PHP\\Inventory\\Inventory\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Inventory.bundle.scp.css"
+    },
+    {
+      "Identity": "c:\\Users\\ABUL HASHEM\\OneDrive\\Desktop\\PROJECTS\\Intern PHP\\Inventory\\Inventory\\wwwroot\\app.css",
+      "SourceId": "Inventory",
+      "SourceType": "Discovered",
+      "ContentRoot": "c:\\Users\\ABUL HASHEM\\OneDrive\\Desktop\\PROJECTS\\Intern PHP\\Inventory\\Inventory\\wwwroot\\",
+      "BasePath": "_content/Inventory",
+      "RelativePath": "app.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.css"
+    }
+  ]
+}
