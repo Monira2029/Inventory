@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ABUL HASHEM\\OneDrive\\Desktop\\PROJECTS\\Intern PHP\\Inventory\\Inventory\\Inventory.csproj": {}
+    "C:\\Users\\ABUL HASHEM\\OneDrive\\Desktop\\PROJECTS\\Intern PHP\\Inventory\\Inventory\\Inventory.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ABUL HASHEM\\OneDrive\\Desktop\\PROJECTS\\Intern PHP\\Inventory\\Inventory\\Inventory.csproj": {
+    "C:\\Users\\ABUL HASHEM\\OneDrive\\Desktop\\PROJECTS\\Intern PHP\\Inventory\\Inventory\\Inventory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ABUL HASHEM\\OneDrive\\Desktop\\PROJECTS\\Intern PHP\\Inventory\\Inventory\\Inventory.csproj",
+        "projectUniqueName": "C:\\Users\\ABUL HASHEM\\OneDrive\\Desktop\\PROJECTS\\Intern PHP\\Inventory\\Inventory\\Inventory.csproj",
         "projectName": "Inventory",
-        "projectPath": "c:\\Users\\ABUL HASHEM\\OneDrive\\Desktop\\PROJECTS\\Intern PHP\\Inventory\\Inventory\\Inventory.csproj",
+        "projectPath": "C:\\Users\\ABUL HASHEM\\OneDrive\\Desktop\\PROJECTS\\Intern PHP\\Inventory\\Inventory\\Inventory.csproj",
         "packagesPath": "C:\\Users\\ABUL HASHEM\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ABUL HASHEM\\OneDrive\\Desktop\\PROJECTS\\Intern PHP\\Inventory\\Inventory\\obj\\",
+        "outputPath": "C:\\Users\\ABUL HASHEM\\OneDrive\\Desktop\\PROJECTS\\Intern PHP\\Inventory\\Inventory\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ABUL HASHEM\\AppData\\Roaming\\NuGet\\NuGet.Config"
