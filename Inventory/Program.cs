@@ -1,10 +1,12 @@
+using Inventory.Clients;
 using Inventory.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorComponents();
-
+builder.Services.AddSingleton<GamesClient>();
+builder.Services.AddSingleton<GenresClient>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

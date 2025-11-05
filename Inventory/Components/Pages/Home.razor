@@ -1,6 +1,5 @@
 ﻿@page "/"
-@using Inventory.Clients
-@using Models
+@inject GamesClient Client
 
 <PageTitle>Game Catalog</PageTitle>
 
@@ -39,11 +38,11 @@ else
 }
 
 @code {
-    private GamesClient client = new();
+    
     private GameSummary[]? games;
 
     protected override void OnInitialized()
     {
-      games = client.GetGames();
+      games = Client.GetGames();
     }
 }
