@@ -1,8 +1,3 @@
-C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\Intern PHP\Inventory\Inventory\obj\Debug\net8.0\Inventory.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\Intern PHP\Inventory\Inventory\obj\Debug\net8.0\Inventory.AssemblyInfoInputs.cache
-C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\Intern PHP\Inventory\Inventory\obj\Debug\net8.0\Inventory.AssemblyInfo.cs
-C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\Intern PHP\Inventory\Inventory\obj\Debug\net8.0\Inventory.csproj.CoreCompileInputs.cache
-C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\Intern PHP\Inventory\Inventory\obj\Debug\net8.0\Inventory.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\Intern PHP\Inventory\Inventory\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\Intern PHP\Inventory\Inventory\bin\Debug\net8.0\appsettings.json
 C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\Intern PHP\Inventory\Inventory\bin\Debug\net8.0\Inventory.staticwebassets.runtime.json
@@ -11,6 +6,11 @@ C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\Intern PHP\Inventory\Inventory\bi
 C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\Intern PHP\Inventory\Inventory\bin\Debug\net8.0\Inventory.runtimeconfig.json
 C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\Intern PHP\Inventory\Inventory\bin\Debug\net8.0\Inventory.dll
 C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\Intern PHP\Inventory\Inventory\bin\Debug\net8.0\Inventory.pdb
+C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\Intern PHP\Inventory\Inventory\obj\Debug\net8.0\Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\Intern PHP\Inventory\Inventory\obj\Debug\net8.0\Inventory.AssemblyInfoInputs.cache
+C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\Intern PHP\Inventory\Inventory\obj\Debug\net8.0\Inventory.AssemblyInfo.cs
+C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\Intern PHP\Inventory\Inventory\obj\Debug\net8.0\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\Intern PHP\Inventory\Inventory\obj\Debug\net8.0\Inventory.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\Intern PHP\Inventory\Inventory\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\Intern PHP\Inventory\Inventory\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\ABUL HASHEM\OneDrive\Desktop\PROJECTS\Intern PHP\Inventory\Inventory\obj\Debug\net8.0\staticwebassets\msbuild.Inventory.Microsoft.AspNetCore.StaticWebAssets.props
