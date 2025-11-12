@@ -1,1 +1,13 @@
- NavigationManager NavigationManager
+@page "/dashboard"
+@attribute [Authorize]
+
+<h3>Dashboard</h3>
+
+<AuthorizeView>
+    <Authorized Context="authContext">
+        <p>Welcome, @authContext.User.Identity?.Name!</p>
+    </Authorized>
+    <NotAuthorized>
+        <p>You are not authorized to view this page.</p>
+    </NotAuthorized>
+</AuthorizeView>
