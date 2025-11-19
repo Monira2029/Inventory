@@ -20,11 +20,11 @@ public class GenresClient
         },
         new(){
             Id = 4,
-            Name = "Hadudu"
+            Name = "Hockey"
         },
         new(){
             Id = 5,
-            Name = "Gollachut"
+            Name = "Other"
         }
     ];
 

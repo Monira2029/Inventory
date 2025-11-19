@@ -8697,11 +8697,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ABUL HASHEM\\OneDrive\\Desktop\\PROJECTS\\Intern PHP\\Inventory\\Inventory\\Inventory.csproj",
+      "projectUniqueName": "C:\\Users\\ABUL HASHEM\\OneDrive\\Desktop\\PROJECTS\\Intern PHP\\New folder\\Inventory\\Inventory\\Inventory.csproj",
       "projectName": "Inventory",
-      "projectPath": "C:\\Users\\ABUL HASHEM\\OneDrive\\Desktop\\PROJECTS\\Intern PHP\\Inventory\\Inventory\\Inventory.csproj",
+      "projectPath": "C:\\Users\\ABUL HASHEM\\OneDrive\\Desktop\\PROJECTS\\Intern PHP\\New folder\\Inventory\\Inventory\\Inventory.csproj",
       "packagesPath": "C:\\Users\\ABUL HASHEM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ABUL HASHEM\\OneDrive\\Desktop\\PROJECTS\\Intern PHP\\Inventory\\Inventory\\obj\\",
+      "outputPath": "C:\\Users\\ABUL HASHEM\\OneDrive\\Desktop\\PROJECTS\\Intern PHP\\New folder\\Inventory\\Inventory\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

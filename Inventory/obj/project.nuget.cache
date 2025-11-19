@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "38/AAIEjdno=",
+  "dgSpecHash": "wZrtSULGVCc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ABUL HASHEM\\OneDrive\\Desktop\\PROJECTS\\Intern PHP\\Inventory\\Inventory\\Inventory.csproj",
+  "projectFilePath": "C:\\Users\\ABUL HASHEM\\OneDrive\\Desktop\\PROJECTS\\Intern PHP\\New folder\\Inventory\\Inventory\\Inventory.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ABUL HASHEM\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ABUL HASHEM\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
